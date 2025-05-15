@@ -1,26 +1,2 @@
 
-body {
-  margin: 0;
-  font-family: Arial, sans-serif;
-}
-
-
-.menu {
-  background-color: #777;
-  padding: 10px;
-}
-
-
-#menu-btn {
-  font-size: 24px;
-  background: none;
-  border: none;
-  color: white;
-  cursor: pointer;
-}
-
-
-h1 {
-  text-align: center;
-  margin-top: 20px;
 }
