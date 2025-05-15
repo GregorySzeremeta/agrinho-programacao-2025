@@ -1,16 +1,16 @@
-/* Zera margens padrão */
+
 body {
   margin: 0;
   font-family: Arial, sans-serif;
 }
 
-/* Estiliza o menu */
+
 .menu {
-  background-color: #777; /* cinza escuro */
+  background-color: #777;
   padding: 10px;
 }
 
-/* Estiliza o botão do menu */
+
 #menu-btn {
   font-size: 24px;
   background: none;
@@ -19,7 +19,7 @@ body {
   cursor: pointer;
 }
 
-/* Título centralizado */
+
 h1 {
   text-align: center;
   margin-top: 20px;
